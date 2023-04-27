@@ -8,7 +8,7 @@ It all started when we needed something way more powerful than those other termi
 
 And, it had to be _simple, quick, and painless_ to use by truly anyone out there, even you.
 
-Introducing Clipboard, or CB. We made it to save you time and effort. Or in other words,
+Introducing Clipboard, or CB. We made it to save you time and effort. Or in other words,,,
 
 <p align="center"> 
     <img src="documentation/readme-assets/ClipboardMakesYourLifeEasy.png" alt="CB makes your life easy." />
